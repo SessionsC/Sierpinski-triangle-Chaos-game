@@ -14,3 +14,4 @@ This method is also called the chaos game, and is an example of an iterated func
 https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle
 
 The same can be done with a pentagon, as shown in pent_chaos.m
+![](Pent_chaos.gif)
