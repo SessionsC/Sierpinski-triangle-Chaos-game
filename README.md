@@ -8,6 +8,7 @@ Building Sierpinski's triangle from random points following a few set rules.
 5. Plot the current position.
 6. Repeat from step 
 
+![](tri_chaos.gif)
 
 This method is also called the chaos game, and is an example of an iterated function system. You can start from any point outside or inside the triangle, and it would eventually form the Sierpinski Gasket with a few leftover points (if the starting point lies on the outline of the triangle, there are no leftover points).
 https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle
