@@ -6,7 +6,7 @@ Building Sierpinski's triangle from random points following a few set rules.
 3. Randomly select any one of the three vertex points.
 4. Move half the distance from your current position to the selected vertex.
 5. Plot the current position.
-6. Repeat from step 
+6. Repeat from step 3 
 
 ![](tri_chaos.gif)
 
